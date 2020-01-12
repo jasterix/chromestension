@@ -5,7 +5,6 @@ const buttonClicked = tab => {
     txt: "hello"
   };
 
-  console.log("hi");
   chrome.tabs.sendMessage(tab.id, msg);
 };
 
