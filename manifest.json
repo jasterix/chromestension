@@ -4,7 +4,12 @@
     "version": "0.0001",
     "content_scripts": [
         {
-            "js": "content.js"
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ]
         }
     ]
 }
