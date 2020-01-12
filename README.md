@@ -1,4 +1,4 @@
-Making a simple Chrome extension for practice
+## Practice with Chrome extensions
 
 ### Resources:
 
