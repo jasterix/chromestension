@@ -1,5 +1,10 @@
 {
     "manifest_version": 2,
     "name": "Chromestension",
-    "version": "0.0001"
+    "version": "0.0001",
+    "content_scripts": [
+        {
+            "js": "content.js"
+        }
+    ]
 }
