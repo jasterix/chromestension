@@ -1,4 +1,4 @@
-console.log("Background running and listening for browser actions");
+console.log("Background running and listening for browser actions. Making a change.");
 
 const buttonClicked = tab => {
   let msg = {
