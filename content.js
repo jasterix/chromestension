@@ -1,4 +1,4 @@
-console.log("Chrome extension go");
+console.log("Chrome extension go. Making a change");
 
 let paragraphs = document.querySelectorAll("p");
 
